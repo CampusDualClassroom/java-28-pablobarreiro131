@@ -5,7 +5,6 @@ public class Exercise28 {
         int[] array = new int[2];
         for (int i = 0; i<5; i++){
             array[i] = i;
-            
         }
     }
 }
